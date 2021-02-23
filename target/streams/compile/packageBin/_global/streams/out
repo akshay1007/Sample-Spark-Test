@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/apple/Desktop/akshay/spark_projects/SampleProject/target/scala-2.12/sampleproject_2.12-0.1.0-SNAPSHOT.jar ...[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/apple/Desktop/akshay/spark_projects/SampleProject/target/scala-2.12/classes/com[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshay[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/apple/Desktop/akshay/spark_projects/SampleProject/target/scala-2.12/classes/com/akshay[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshay/sample[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/apple/Desktop/akshay/spark_projects/SampleProject/target/scala-2.12/classes/com/akshay/sample[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshay/sample/Hello$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/apple/Desktop/akshay/spark_projects/SampleProject/target/scala-2.12/classes/com/akshay/sample/Hello$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshay/sample/Hello$delayedInit$body.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/apple/Desktop/akshay/spark_projects/SampleProject/target/scala-2.12/classes/com/akshay/sample/Hello$delayedInit$body.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	com/akshay/sample/Hello.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/apple/Desktop/akshay/spark_projects/SampleProject/target/scala-2.12/classes/com/akshay/sample/Hello.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m[0J
